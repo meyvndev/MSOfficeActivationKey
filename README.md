@@ -16,8 +16,7 @@ iwmvictor
 ### Company: 
 (Meyvn)[]
 ## Email:
-#### - General: info.meyvn@gmail.com
-#### - Personal: isingizwemunezerovictor5@gmail.com
+#### - Say, Hi: arkonmade@gmail.com
 
 ## Desclaimer:
 You can copy and paste this content into your `README.md` file. Replace the placeholders in the README with your actual information and create a new repository on GitHub with the name "microsoft-office-activator." Upload the script file and README to the repository.
